@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25feeb5f-3504-4309-9134-bf75cef99362" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/appleKitchen-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/appleKitchen-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/appleKitchen-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/appleKitchen-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/batteriesBath-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/batteriesBath-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/brushBath-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/brushBath-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/bucketBath-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/bucketBath-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/carChild-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/cheese-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/cheese-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/chockolateKitchen-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/chockolateKitchen-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/crackersKitchen-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/crackersKitchen-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/duckBath-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/duckBath-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/gelBath-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/gelBath-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/grimChild-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/grimChild-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/hgChild-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/hgChild-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/jamKitchen-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/jamKitchen-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/markerChild-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/markerChild-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/markerChild-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/markerChild-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/milkKitchen-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/milkKitchen-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/napkinsBath-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/napkinsBath-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/napkinsBath-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/napkinsBath-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/octopusChild-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/oreoKitchen-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/oreoKitchen-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/paperBath-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/paperBath-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/peanutKitchen-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/peanutKitchen-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-coloredRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-coloredRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/popitChild-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/radishKitchen-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/radishKitchen-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sauce-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sauce-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/soapBath-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/soapBath-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/soapBath-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/soapBath-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/soapBath-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/soapBath-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaBottle-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaBottle-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-greenRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-greenRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-yellow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-yellow.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/sodaKitchen-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/spongeBath-yellowRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/spongeBath-yellowRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/toothpasteBath-redRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/toothpasteBath-redRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/towel2Bath-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/towel2Bath-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/towelBath-purpleRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/towelBath-purpleRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/waterKitchen-blueRender.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Sprites/IconRenders/waterKitchen-blueRender.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/ColorPaletteFilled.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/ColorPaletteFilled.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/ColorPaletteGrayscale.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/ColorPaletteGrayscale.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/bottomWalls-cafe_BC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/bottomWalls-cafe_BC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/icons.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/icons.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/laundrey_BC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/laundrey_BC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/wallKitchen_BC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/wallKitchen_BC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/Textures/walls_BC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/Textures/walls_BC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Lose/Group 98.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Lose/Group 98.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Map/Rectangle 9 (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Map/Rectangle 9 (1).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Map/image 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Map/image 3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Slider.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Slider.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Win/Group 71.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Win/Group 71.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Win/Rectangle 49.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Win/Rectangle 49.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Win/Rectangle 50.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Win/Rectangle 50.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Art/UI/Снимок-экрана-2023-10-19-105313 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Art/UI/Снимок-экрана-2023-10-19-105313 1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FacebookSDK/SDK/Resources/FacebookSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../FacebookSDK/SDK/Resources/FacebookSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hoopsly/Resources/HoopslySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hoopsly/Resources/HoopslySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaxSdk/Resources/AppLovinSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../MaxSdk/Resources/AppLovinSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Plugins/Android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_unity_version.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_unity_version.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.activity.activity-1.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.activity.activity-1.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.annotation.annotation-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.annotation.annotation-1.6.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.annotation.annotation-experimental-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.annotation.annotation-experimental-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.appcompat.appcompat-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.appcompat.appcompat-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.appcompat.appcompat-resources-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.appcompat.appcompat-resources-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.arch.core.core-common-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.arch.core.core-common-2.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.arch.core.core-runtime-2.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.arch.core.core-runtime-2.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.browser.browser-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.browser.browser-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.cardview.cardview-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.cardview.cardview-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.collection.collection-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.collection.collection-1.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.concurrent.concurrent-futures-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.concurrent.concurrent-futures-1.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.core.core-1.8.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.core.core-1.8.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.core.core-ktx-1.8.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.core.core-ktx-1.8.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.cursoradapter.cursoradapter-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.cursoradapter.cursoradapter-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.customview.customview-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.customview.customview-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-core-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-core-1.0.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-preferences-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-preferences-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-preferences-core-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.datastore.datastore-preferences-core-1.0.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.documentfile.documentfile-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.documentfile.documentfile-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.drawerlayout.drawerlayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.drawerlayout.drawerlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.fragment.fragment-1.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.fragment.fragment-1.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.interpolator.interpolator-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.interpolator.interpolator-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.legacy.legacy-support-core-ui-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.legacy.legacy-support-core-ui-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.legacy.legacy-support-core-utils-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.legacy.legacy-support-core-utils-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.legacy.legacy-support-v4-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.legacy.legacy-support-v4-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-common-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-common-2.3.1.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-livedata-2.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-livedata-2.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-livedata-core-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-livedata-core-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-runtime-2.3.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-runtime-2.3.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-viewmodel-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-viewmodel-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.loader.loader-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.loader.loader-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.media.media-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.media.media-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.print.print-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.print.print-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.privacysandbox.ads.ads-adservices-1.0.0-beta05.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.privacysandbox.ads.ads-adservices-1.0.0-beta05.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.privacysandbox.ads.ads-adservices-java-1.0.0-beta05.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.privacysandbox.ads.ads-adservices-java-1.0.0-beta05.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.savedstate.savedstate-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.savedstate.savedstate-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.tracing.tracing-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.tracing.tracing-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.vectordrawable.vectordrawable-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.vectordrawable.vectordrawable-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.1.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.1.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.viewpager.viewpager-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/androidx.viewpager.viewpager-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.android.installreferrer.installreferrer-1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.android.installreferrer.installreferrer-1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.applovin.applovin-sdk-11.11.3.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.applovin.applovin-sdk-11.11.3.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.audience-network-sdk-6.16.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.audience-network-sdk-6.16.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-applinks-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-applinks-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-bolts-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-bolts-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-common-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-common-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-core-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-core-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-gamingservices-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-gamingservices-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-login-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-login-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-share-15.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.facebook.android.facebook-share-15.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.datatransport.transport-api-3.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.datatransport.transport-api-3.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.datatransport.transport-backend-cct-3.1.9.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.datatransport.transport-backend-cct-3.1.9.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.datatransport.transport-runtime-3.1.9.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.datatransport.transport-runtime-3.1.9.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-ads-identifier-18.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-ads-identifier-18.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-appset-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-appset-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-base-18.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-base-18.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-basement-18.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-basement-18.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-cloud-messaging-17.0.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-cloud-messaging-17.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-api-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-api-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-base-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-base-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-impl-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-impl-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-sdk-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-sdk-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-sdk-api-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-measurement-sdk-api-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-stats-17.0.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-stats-17.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-tasks-18.0.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.android.gms.play-services-tasks-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.code.findbugs.jsr305-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.code.findbugs.jsr305-3.0.2.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.code.gson.gson-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.code.gson.gson-2.8.8.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.errorprone.error_prone_annotations-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.errorprone.error_prone_annotations-2.11.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-abt-21.1.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-abt-21.1.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-analytics-21.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-analytics-21.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-analytics-unity-11.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-analytics-unity-11.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-annotations-16.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-annotations-16.2.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-app-unity-11.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-app-unity-11.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-common-20.4.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-common-20.4.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-common-ktx-20.4.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-common-ktx-20.4.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-components-17.1.5.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-components-17.1.5.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-config-21.5.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-config-21.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-config-unity-11.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-config-unity-11.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-crashlytics-18.5.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-crashlytics-18.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-crashlytics-ndk-18.5.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-crashlytics-ndk-18.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-crashlytics-unity-11.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-crashlytics-unity-11.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-datatransport-18.1.8.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-datatransport-18.1.8.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-encoders-17.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-encoders-17.0.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-encoders-json-18.0.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-encoders-json-18.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-encoders-proto-16.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-encoders-proto-16.0.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-iid-21.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-iid-21.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-iid-interop-17.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-iid-interop-17.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-installations-17.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-installations-17.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-installations-interop-17.1.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-installations-interop-17.1.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-measurement-connector-19.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-measurement-connector-19.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-messaging-23.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-messaging-23.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-messaging-unity-11.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-messaging-unity-11.4.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-sessions-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.firebase.firebase-sessions-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.flatbuffers.flatbuffers-java-1.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.flatbuffers.flatbuffers-java-1.12.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.guava.failureaccess-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.guava.failureaccess-1.0.1.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.guava.guava-31.1-android.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.guava.guava-31.1-android.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.guava.listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.guava.listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.j2objc.j2objc-annotations-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.j2objc.j2objc-annotations-1.3.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.zxing.core-3.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.google.zxing.core-3.3.3.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.parse.bolts.bolts-android-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.parse.bolts.bolts-android-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.parse.bolts.bolts-applinks-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.parse.bolts.bolts-applinks-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.parse.bolts.bolts-tasks-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/com.parse.bolts.bolts-tasks-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/javax.inject.javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/javax.inject.javax.inject-1.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.checkerframework.checker-qual-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.checkerframework.checker-qual-3.12.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.annotations-23.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.annotations-23.0.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-1.8.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-1.8.21.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-common-1.8.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-common-1.8.21.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.8.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.8.20.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-jdk8-1.8.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-jdk8-1.8.20.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlinx.kotlinx-coroutines-core-1.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlinx.kotlinx-coroutines-core-1.7.1.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlinx.kotlinx-coroutines-core-jvm-1.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlinx.kotlinx-coroutines-core-jvm-1.7.1.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlinx.kotlinx-coroutines-play-services-1.6.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plugins/Android/org.jetbrains.kotlinx.kotlinx-coroutines-play-services-1.6.4.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Settings/URP-Performant-Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Settings/URP-Performant-Renderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Settings/URP-Performant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Settings/URP-Performant.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/AndroidResolverDependencies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/AndroidResolverDependencies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/GvhProjectSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/GvhProjectSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2XCPC6xorU1nfnNG4yHik58Rokn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25feeb5f-3504-4309-9134-bf75cef99362" name="Changes" comment="" />
+      <created>1698129958670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698129958670</updated>
+      <workItem from="1698129962790" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
